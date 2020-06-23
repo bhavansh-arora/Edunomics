@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="Home"/>
+    <item android:id="@+id/nav_impact"
+        android:title="Impact"/>
+    <item android:id="@+id/nav_opportunities"
+        android:title="Opportunities"/>
+    <item android:id="@+id/nav_initiatives"
+        android:title="Initiatives"/>
+    <item android:id="@+id/nav_faq"
+        android:title="FAQ's"/>
+    <item android:id="@+id/nav_blog"
+        android:title="Blog"/>
+
+
+</menu>
